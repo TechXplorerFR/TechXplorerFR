@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm TechXplorer, a student coming from France!
 
-I love **video-editing***🎞* and obviously 💻__**coding**__!
+I love **video-editing***🎞* and obviously 💻**coding**!
 
 ### Projects
 
