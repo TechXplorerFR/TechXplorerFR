@@ -14,6 +14,6 @@ I usually use Node.js for my projects, but I'm actually learning Python, Java an
 
 ### Contact 📩
 
-<img src="https://github.com/TechXplorerFR/TechXplorerFR/blob/main/twitter.png" width="13"/> - [Twitter](https://twitter.com/TechXplorerFR)
-<img src="https://github.com/TechXplorerFR/TechXplorerFR/blob/main/discord%20logo%20png.png" width="13"/> - Antoine | TechXplorer#9658
-<img src="https://github.com/TechXplorerFR/TechXplorerFR/blob/main/insta.png" width="13"/> - [Instagram](https://instagram.com/techxplorerfr)
+<img src="https://github.com/TechXplorerFR/TechXplorerFR/blob/main/twitter.png" width="20"/> - [Twitter](https://twitter.com/TechXplorerFR)<br>
+<img src="https://github.com/TechXplorerFR/TechXplorerFR/blob/main/discord%20logo%20png.png" width="20"/> - Antoine | TechXplorer#9658<br>
+<img src="https://github.com/TechXplorerFR/TechXplorerFR/blob/main/insta.png" width="20"/> - [Instagram](https://instagram.com/techxplorerfr)
