@@ -6,7 +6,7 @@ I love **video-editing***🎞* and obviously 💻**coding**!
 
 ### Projects
 
-Most of my projects are open-source, soo you can easily use them! 😁
+Most of my projects are open-source, so you can easily use them! 😁
 
 ### Skills 🧰
 
