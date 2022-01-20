@@ -1,6 +1,6 @@
 # 👋 Hello world!
 
-Welcome to my profile! I'm TechXplorer, a student coming from France<img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>!
+Welcome to my profile! I'm TechXplorer, a student coming from France<img src="https://github.com/TechXplorerFR/TechXplorerFR/blob/main/france_flag.png?raw=true" width="13"/>!
 
 I love **video-editing***🎞* and obviously 💻**coding**!
 
