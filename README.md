@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Antoine PREVOST
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techxplorerfr&label=Profile%20views&color=545454&style=plastic" alt="techxplorerfr" /> </p>
+
 **🚀 Developer. Builder. Founder.**  
 Studying Software Architecture · Running my own agency · Looking to join a bold tech team.
 
